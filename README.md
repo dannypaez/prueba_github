@@ -1,1 +1,1 @@
-# Esto es una prueba de subir a Github
+# Esto es una prueba de subir un proyecto a Github
